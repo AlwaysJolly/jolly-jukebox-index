@@ -1,0 +1,28 @@
+{
+  "manifest": 1,
+  "name": "Jolly's NONGs",
+  "id": "jollynongindex",
+  "description": "Jolly's NONGs for unreleased levels",
+  "lastUpdate": 0,
+  "links": {
+    "discord": "https://soundofworms.pikapod.net"
+  },
+  "nongs": {
+    "hosted": {
+      "songtemplate": {
+        "name": "Song Name",
+        "artist": "Artist Name",
+        "startOffset": 0,
+        "url": "Download",
+        "songs": [00]
+      },
+        "songtemplate2": {
+        "name": "Song Name",
+        "artist": "Artist Name",
+        "startOffset": 0,
+        "url": "Download",
+        "songs": [00]
+      },
+    }
+  }
+}

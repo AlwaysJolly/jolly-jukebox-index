@@ -16,12 +16,12 @@
         "url": "Download",
         "songs": [00]
       },
-        "songtemplate2": {
-        "name": "Song Name",
-        "artist": "Artist Name",
+        "6217fd88-5445-4cd0-ac5f-fb2a55d8960c": {
+        "name": "Sacred Beast",
+        "artist": "Tally Hall",
         "startOffset": 0,
-        "url": "Download",
-        "songs": [00]
+        "url": "https://soundofworms.pikapod.net/rest/download?u=Jolly&t=8cef273cf48b6fb6fd3e10c5208a7574&s=8c6568&f=json&v=1.8.0&c=NavidromeUI&id=Bn0I0uXRz0e0A7s1eAKzVR&format=raw&bitrate=0",
+        "songs": [10008768]
       },
     }
   }

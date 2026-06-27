@@ -14,7 +14,7 @@
         "artist": "Artist Name",
         "startOffset": 0,
         "url": "Download",
-        "songs": [00]
+        "songs": [1]
       },
         "6217fd88-5445-4cd0-ac5f-fb2a55d8960c": {
         "name": "Sacred Beast",
@@ -22,7 +22,7 @@
         "startOffset": 0,
         "url": "https://soundofworms.pikapod.net/rest/download?u=Jolly&t=8cef273cf48b6fb6fd3e10c5208a7574&s=8c6568&f=json&v=1.8.0&c=NavidromeUI&id=Bn0I0uXRz0e0A7s1eAKzVR&format=raw&bitrate=0",
         "songs": [10008768]
-      },
+      }
     }
   }
 }

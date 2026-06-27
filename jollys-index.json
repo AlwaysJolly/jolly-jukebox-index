@@ -20,7 +20,10 @@
       "songs":[684300],"verifiedLevelIDs":[]},
       "1519f461-3257-4885-8120-881cd0a7e989":{"name":"On the Way","artist":"AiNA THE END","startOffset":0,
       "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=ixCBD1sMBWKNlBN4rLTkZm",
-      "songs":[1092206],"verifiedLevelIDs":[]}
+      "songs":[1092206],"verifiedLevelIDs":[]},
+      "a2a2cdf9-71a5-4494-9f9e-75c1a88cf6cd":{"name":"Hadaka no Yusha","artist":"Vaundy","startOffset":0,
+      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=bxjmxjn4MXODT8HWqqTcAE",
+      "songs":[580875],"verifiedLevelIDs":[]}
     }
   }
 }

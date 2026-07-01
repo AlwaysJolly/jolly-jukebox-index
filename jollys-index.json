@@ -44,7 +44,22 @@
       
       "388333fe-1ad1-44c3-9bb8-d00b967351cb":{"name":"In The Pines","artist":"Danny Farrant & Paul Rawson","startOffset":0,
       "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=DKqILYkYrfNbcYcMXFlTjm",
-      "songs":[447322],"verifiedLevelIDs":[77218492]}
+      "songs":[447322],"verifiedLevelIDs":[77218492]},
+
+      "UUID":{"name":"aiue","artist":"MAISONdes","startOffset":0,
+       "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=XiNKeCbrxnsRqUUMYM4gQ0",
+       "songs":[10002867],"verifiedLevelIDs":[]},
+
+      "UUID":{"name":"Easy Breezy","artist":"chelmico","startOffset":0,
+       "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=RyAFs2QlIq8Y5bgO7A2YmX",
+       "songs":[10004806],"verifiedLevelIDs":[]}
+
+
+
+
+
+
+      
     }
   }
 }

@@ -47,17 +47,21 @@
       "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=DKqILYkYrfNbcYcMXFlTjm",
       "songs":[447322],"verifiedLevelIDs":[77218492]},
 
-      "UUID":{"name":"aiue","artist":"MAISONdes","startOffset":0,
+      "e15b20ab-1448-4456-b73d-ab1da9de20c0":{"name":"aiue","artist":"MAISONdes","startOffset":0,
       "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=XiNKeCbrxnsRqUUMYM4gQ0",
       "songs":[10002867],"verifiedLevelIDs":[]},
 
-      "UUID":{"name":"Easy Breezy","artist":"chelmico","startOffset":0,
+      "31f7310e-4cf4-40d2-b080-14b7148e8043":{"name":"Easy Breezy","artist":"chelmico","startOffset":0,
       "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=RyAFs2QlIq8Y5bgO7A2YmX",
       "songs":[10004806],"verifiedLevelIDs":[]},
       
-      "UUID":{"name":"Dramaturgy","artist":"Eve","startOffset":0,
+      "6cfab56d-5865-43cf-bbcb-020867ffd132":{"name":"Dramaturgy","artist":"Eve","startOffset":0,
       "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=LexhXv5NnOstPts6FkkmQQ",
-      "songs":[437456],"verifiedLevelIDs":[]}
+      "songs":[437456],"verifiedLevelIDs":[]},
+
+      "e89aeaf0-72bf-4310-a868-04f7ef42f519":{"name":"Spend It","artist":"Iggy Azalea","startOffset":0,
+      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=TnH5cPXqlcC5ybrNLTbJO6",
+      "songs":[10007889],"verifiedLevelIDs":[]}
       
     }
   }

@@ -8,64 +8,64 @@
     "hosted": {
       
       "UUID":{"name":"SONGNAME","artist":"ARTISTNAME","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=REPLACEME",
-      "songs":[1],"verifiedLevelIDs":[1]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=REPLACEME",
+        "songs":[1],"verifiedLevelIDs":[1]},
       
       "12da9dfc-6e90-42bd-9ccd-cd08a2f269d7":{"name":"Neath!","artist":"The Stupendium","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=2BvJQ89v8pcJgdjJfhWINB",
-      "songs":[338500],"verifiedLevelIDs":[]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=2BvJQ89v8pcJgdjJfhWINB",
+        "songs":[338500],"verifiedLevelIDs":[]},
       
       "c544e95a-4027-4485-bc7e-046a6e33afcf":{"name":"Vault Number 76","artist":"The Stupendium","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=Bmrh71ERhB688WhHqgVxna",
-      "songs":[684300],"verifiedLevelIDs":[]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=Bmrh71ERhB688WhHqgVxna",
+        "songs":[684300],"verifiedLevelIDs":[]},
       
       "1519f461-3257-4885-8120-881cd0a7e989":{"name":"On the Way","artist":"AiNA THE END","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=ixCBD1sMBWKNlBN4rLTkZm",
-      "songs":[1092206],"verifiedLevelIDs":[]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=ixCBD1sMBWKNlBN4rLTkZm",
+        "songs":[1092206],"verifiedLevelIDs":[]},
       
       "a2a2cdf9-71a5-4494-9f9e-75c1a88cf6cd":{"name":"Hadaka no Yusha","artist":"Vaundy","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=bxjmxjn4MXODT8HWqqTcAE",
-      "songs":[580875],"verifiedLevelIDs":[]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=bxjmxjn4MXODT8HWqqTcAE",
+        "songs":[580875],"verifiedLevelIDs":[]},
       
       "b40ec2d1-138c-4783-abf0-dc3458381f50":{"name":"My Hero","artist":"MAN WITH A MISSION","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=t06bGHMHzlgsLSVgPUUzBE",
-      "songs":[494556],"verifiedLevelIDs":[139927971]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=t06bGHMHzlgsLSVgPUUzBE",
+        "songs":[494556],"verifiedLevelIDs":[139927971]},
       
       "ac59b1b7-5aef-4fb0-a599-b634f260ab7e":{"name":"Abyss","artist":"YUNGBLUD","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=FHARTaVPqiIAKQF2Yjq4h8",
-      "songs":[724138],"verifiedLevelIDs":[]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=FHARTaVPqiIAKQF2Yjq4h8",
+        "songs":[724138],"verifiedLevelIDs":[]},
       
       "faccf95d-b584-4149-a073-e69035ff2ae8":{"name":"Art of Darkness","artist":"The Stupendium","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=DvloWWinj5rI7XjSUM4Rxn",
-      "songs":[76234],"verifiedLevelIDs":[126471021]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=DvloWWinj5rI7XjSUM4Rxn",
+        "songs":[76234],"verifiedLevelIDs":[126471021]},
       
       "42a9e374-03bd-43dd-9182-baab0a710b69":{"name":"Deal with the devil (TV size)","artist":"Tia","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=p8LXefRxjVYVbQqkH3xSeg",
-      "songs":[110836],"verifiedLevelIDs":[]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=p8LXefRxjVYVbQqkH3xSeg",
+        "songs":[110836],"verifiedLevelIDs":[]},
       
       "388333fe-1ad1-44c3-9bb8-d00b967351cb":{"name":"In The Pines","artist":"Danny Farrant & Paul Rawson","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=DKqILYkYrfNbcYcMXFlTjm",
-      "songs":[447322],"verifiedLevelIDs":[77218492]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=DKqILYkYrfNbcYcMXFlTjm",
+        "songs":[447322],"verifiedLevelIDs":[77218492]},
 
       "e15b20ab-1448-4456-b73d-ab1da9de20c0":{"name":"aiue","artist":"MAISONdes","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=XiNKeCbrxnsRqUUMYM4gQ0",
-      "songs":[10002867],"verifiedLevelIDs":[]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=XiNKeCbrxnsRqUUMYM4gQ0",
+        "songs":[10002867],"verifiedLevelIDs":[]},
 
       "31f7310e-4cf4-40d2-b080-14b7148e8043":{"name":"Easy Breezy","artist":"chelmico","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=RyAFs2QlIq8Y5bgO7A2YmX",
-      "songs":[10004806],"verifiedLevelIDs":[]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=RyAFs2QlIq8Y5bgO7A2YmX",
+        "songs":[10004806],"verifiedLevelIDs":[]},
       
       "6cfab56d-5865-43cf-bbcb-020867ffd132":{"name":"Dramaturgy","artist":"Eve","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=LexhXv5NnOstPts6FkkmQQ",
-      "songs":[437456],"verifiedLevelIDs":[]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=LexhXv5NnOstPts6FkkmQQ",
+        "songs":[437456],"verifiedLevelIDs":[]},
 
       "e89aeaf0-72bf-4310-a868-04f7ef42f519":{"name":"Spend It","artist":"Iggy Azalea","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=TnH5cPXqlcC5ybrNLTbJO6",
-      "songs":[10007889],"verifiedLevelIDs":[]},
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=TnH5cPXqlcC5ybrNLTbJO6",
+        "songs":[10007889],"verifiedLevelIDs":[]},
 
       "2718671d-eedb-47a1-83bb-392c7132f675":{"name":"The U & I In Suicide","artist":"That Handsome Devil","startOffset":0,
-      "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=7FBnj46438zVcTW5gcekwn",
-      "songs":[10002210],"verifiedLevelIDs":[]}
+        "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=7FBnj46438zVcTW5gcekwn",
+        "songs":[10002210],"verifiedLevelIDs":[]}
     }
   }
 }

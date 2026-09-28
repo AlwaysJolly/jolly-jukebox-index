@@ -67,7 +67,7 @@
         "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=7FBnj46438zVcTW5gcekwn",
         "songs":[10002210],"verifiedLevelIDs":[]},
 
-      "UUID":{"name":"Snowman","artist":"Sia","startOffset":0,
+      "c76bef03-fa50-4f70-af30-8c39b90d3454":{"name":"Snowman","artist":"Sia","startOffset":0,
         "url":"http://soundofworms.pikapod.net/rest/download?u=jukeboxindex&t=1458657d51e107e15ea6189bd2c8ce7f&s=MJLWcO&v=1.16.1&c=jukebox_index&f=json&id=4qU1JAbT60H8APuCfh1Gsa",
         "songs":[754],"verifiedLevelIDs":[149595271]}
     }
